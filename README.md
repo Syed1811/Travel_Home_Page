@@ -1,7 +1,5 @@
 # Travel Karo
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Syed1811/Travel-Karo/blob/main/LICENSE)
-
 > A travel website built with HTML and CSS.
 
 
